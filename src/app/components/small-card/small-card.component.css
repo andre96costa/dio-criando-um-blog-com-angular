@@ -1,7 +1,7 @@
 .container__smal-card {
     width: 500px;
-    margin-top: 15px;
 }
+
 .container__smal-card-content {
     display: flex;
     flex-direction: row;
@@ -28,5 +28,6 @@
 }
 
 .container__small-card-separator {
-    margin-top: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
 }
